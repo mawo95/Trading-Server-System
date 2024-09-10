@@ -23,7 +23,8 @@
 
 This document provides a comprehensive overview of the trading server and its associated Discord bot. The server, built with Node.js, handles functionalities such as user authentication, account management, anti-bot protection, and system statistics. The Discord bot is designed for managing trading credentials, tracking usage stats, and controlling access to the trading system.
 
-![Stats command](https://github.com/mawo95/Trading-Server-System/blob/main/command.jpg?raw=true) ![More commands](https://github.com/mawo95/Trading-Server-System/blob/main/commands.jpg?raw=true) ![Server Startup](https://github.com/mawo95/Trading-Server-System/blob/main/server.jpg?raw=true)
+![More commands](https://github.com/mawo95/Trading-Server-System/blob/main/commands.jpg?raw=true) ![Stats command](https://github.com/mawo95/Trading-Server-System/blob/main/command.jpg?raw=true)
+![Server Startup](https://github.com/mawo95/Trading-Server-System/blob/main/server.jpg?raw=true)
 
 
 ---

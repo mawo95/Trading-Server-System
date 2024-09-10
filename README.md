@@ -115,4 +115,4 @@ The bot will sync its commands with your Discord server and become available to 
 
 ## License
 
-This project is licensed under the MIT License.
+Trading Server System © 2024 by mawo95 is licensed under CC BY-NC-SA 4.0 
